@@ -1,0 +1,18 @@
+             FACE IDENTIFICATION & MOTION DETECTION PROGRESS TREE
+                         Version 1.0, openCV
+
+# IMAGE
+  * if a image is 500 x 700 size and a coloured image means
+            it has 500 rows & 700 columns and 3 channels (R,B,G)
+  * If a image is 200 x 500 and grayscale or black&white image means
+            it has 200 rows & 500 columns and 1 channel
+
+  * SIZE OF IMAGE = NO OF ROWS x NO OF COLUMNS x NO OF CHANNELS
+
+# BASIC WORKFLOW:
+# ===============
+  * Image tweaks
+  * Identify faces from images using cascades
+  * Capture video from webcam
+  * Motion detection
+  * Motion detection with tracking in & out time of object
